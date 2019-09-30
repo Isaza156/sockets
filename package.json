@@ -1,0 +1,28 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "Ejemplos y aprendizaje de sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaza156/sockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaza156/sockets/issues"
+  },
+  "homepage": "https://github.com/Isaza156/sockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
